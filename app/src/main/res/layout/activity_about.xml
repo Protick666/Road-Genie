@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.protick.myapplication.about">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="400dp"
+        android:layout_height="350dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="40dp"
+        android:text="Road Genie will help you to find an optimal path between your source and destination.
+
+User has the option to choose from 15 different locations in Dhaka city. User will select his source and destination by choosing from the 'From' and 'To' field. He/she can also fix the preference of time or price that he wants to minimize.
+
+Then the optimal route between source and destination is highlighted.
+
+To view textual representation
+f the route, user can press the 'See Details' button and and a text will be shown showing the details of the route and necessary bus services needed." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="11dp"
+        android:text="About Road Genie"
+        android:textColor="#000000"/>
+</RelativeLayout>
