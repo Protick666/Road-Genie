@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\d6ceb2ee9e9ded097514707c6e65e941b6c1236e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_75343eedf4d13b42a8e5a339b01c5ad397559b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\f77a07d93c925681f5c8083fef4671a68fbaec6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_b18a4315c004b2282642ead8977cd0225f05c66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_85497afa405c39bcf10f4337189cd51d40609468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\2ac6e269b2cbfe3dff858396798e261cc7cf80dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_2bdb06b68886a3950dc7999f75b58f587d2243cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_54e6a2dbb928dbcf3789d0ffc7cc60093c09b05f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_96ff8bb68fc8d19b56ca025f606e2272dc32f60e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54e6a2dbb928dbcf3789d0ffc7cc60093c09b05f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\8e9bf5c282a882a4a010c83f01e37c4a07892918\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_14f5b81fea766aafd4fa9df01c268ce624d16c5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\.android\build-cache\8e9bf5c282a882a4a010c83f01e37c4a07892918\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14f5b81fea766aafd4fa9df01c268ce624d16c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fda6f8dea95db9954c633f44b4c940e54fb5f0c4">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9706ccb722f487d00a1bacf5c6020f1e7eb90354\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\3e124920b66b83fab01b2a368d3a77850ec3e003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_2c709dc54ae9af5b104a0115f9d9c45125b4c9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\5489a720e2f98742dee405221c09c5f5b67b1737\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_6496c12c13157d17f20f08bd458e1942f0e2ae0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\00dae27b47f8ceec9aefe9a3be6f4451be6450e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_c514f0aae6edb71e8f98f2092a8c445c78ef26b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_1091c5b49d210689fa8bddc87b5c72c7a0f247b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\.android\build-cache\bdfc8d473ba7a28a7d800f37d9b4065f16a5be47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe3d5a5ebd909956a12736de5ebfb2fbd05d2ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\bdfc8d473ba7a28a7d800f37d9b4065f16a5be47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_fe3d5a5ebd909956a12736de5ebfb2fbd05d2ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\111d7545941e8cc2904138602a47df24def2cf73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_1ad95d65e22272936d57e9b8ff51660ff342d5ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\084db47f9b288a0010e3d3b957c07e040b08abee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_221e41f18c877e3fe2c7e0522de0740a0d69f8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_d12c1c77d8cf981b316bca12a6770d2f918d9ec2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0489ccab659a9cab963405a1224db00edfc5cad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62b661a5059cc5a64ea9473f266d18e5672f46b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_0489ccab659a9cab963405a1224db00edfc5cad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\2cd626b2166f3b5053722e060510e47a38c2d89c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_e2202f39ed780a23137938d51244634702fcc0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\release\classes_62b661a5059cc5a64ea9473f266d18e5672f46b4.jar" />
+    </item>
+
+</items>
