@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PROTICK\.android\build-cache\d6ceb2ee9e9ded097514707c6e65e941b6c1236e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PROTICK\.android\build-cache\f77a07d93c925681f5c8083fef4671a68fbaec6c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\PROTICK\.android\build-cache\bdfc8d473ba7a28a7d800f37d9b4065f16a5be47\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PROTICK\.android\build-cache\5489a720e2f98742dee405221c09c5f5b67b1737\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PROTICK\.android\build-cache\111d7545941e8cc2904138602a47df24def2cf73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PROTICK\.android\build-cache\2ac6e269b2cbfe3dff858396798e261cc7cf80dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PROTICK\.android\build-cache\00dae27b47f8ceec9aefe9a3be6f4451be6450e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PROTICK\.android\build-cache\2cd626b2166f3b5053722e060510e47a38c2d89c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PROTICK\.android\build-cache\3e124920b66b83fab01b2a368d3a77850ec3e003\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\PROTICK\.android\build-cache\8e9bf5c282a882a4a010c83f01e37c4a07892918\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PROTICK\.android\build-cache\084db47f9b288a0010e3d3b957c07e040b08abee\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-35
+	android:supportsRtl
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:9-39
+	android:allowBackup
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:9-34
+	android:theme
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:29:13-58
+activity#com.example.protick.myapplication.MapsActivity
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:32:9-34:68
+	android:label
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:33:13-41
+activity#com.example.protick.myapplication.FromToPage
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.example.protick.myapplication.MapsActivity2
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:36:9-38:60
+	android:label
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:37:13-42
+activity#com.example.protick.myapplication.Result
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:39:19-41
+activity#com.example.protick.myapplication.SplashScreen
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:40:9-46:20
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:40:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.protick.myapplication.about
+ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:47:9-52
+	android:name
+		ADDED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:47:19-40
+uses-sdk
+INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PROTICK\.android\build-cache\d6ceb2ee9e9ded097514707c6e65e941b6c1236e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PROTICK\.android\build-cache\f77a07d93c925681f5c8083fef4671a68fbaec6c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\PROTICK\.android\build-cache\bdfc8d473ba7a28a7d800f37d9b4065f16a5be47\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PROTICK\.android\build-cache\5489a720e2f98742dee405221c09c5f5b67b1737\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PROTICK\.android\build-cache\111d7545941e8cc2904138602a47df24def2cf73\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PROTICK\.android\build-cache\2ac6e269b2cbfe3dff858396798e261cc7cf80dd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PROTICK\.android\build-cache\00dae27b47f8ceec9aefe9a3be6f4451be6450e2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PROTICK\.android\build-cache\2cd626b2166f3b5053722e060510e47a38c2d89c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PROTICK\.android\build-cache\3e124920b66b83fab01b2a368d3a77850ec3e003\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\PROTICK\.android\build-cache\8e9bf5c282a882a4a010c83f01e37c4a07892918\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PROTICK\.android\build-cache\084db47f9b288a0010e3d3b957c07e040b08abee\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PROTICK\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PROTICK\.android\build-cache\d6ceb2ee9e9ded097514707c6e65e941b6c1236e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PROTICK\.android\build-cache\f77a07d93c925681f5c8083fef4671a68fbaec6c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PROTICK\.android\build-cache\5489a720e2f98742dee405221c09c5f5b67b1737\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PROTICK\.android\build-cache\111d7545941e8cc2904138602a47df24def2cf73\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PROTICK\.android\build-cache\2ac6e269b2cbfe3dff858396798e261cc7cf80dd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PROTICK\.android\build-cache\00dae27b47f8ceec9aefe9a3be6f4451be6450e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PROTICK\.android\build-cache\2cd626b2166f3b5053722e060510e47a38c2d89c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PROTICK\.android\build-cache\3e124920b66b83fab01b2a368d3a77850ec3e003\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PROTICK\.android\build-cache\c29c0cdb4dbdfb2ec7298bdb8228f33f267d45cc\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\PROTICK\.android\build-cache\d9df1d3b725fedcead70a27d73b6f78caa105d0b\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\PROTICK\.android\build-cache\205ce1085fb938b6acfffec21159832b61a1d2dd\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\PROTICK\.android\build-cache\76114be7b324851438596251dd2f3745b0cdea45\output\AndroidManifest.xml:20:20-65
