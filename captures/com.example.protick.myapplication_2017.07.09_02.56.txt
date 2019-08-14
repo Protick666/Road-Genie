@@ -1,0 +1,51 @@
+TASK com.example.protick.myapplication id=1752
+  ACTIVITY com.example.protick.myapplication/.MapsActivity 16c25428 pid=8496
+    Local FragmentActivity 1dbab29e State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    Active Fragments in f1e617f:
+      #0: SupportMapFragment{18de654c #0 id=0x7f0b0061}
+        mFragmentId=#7f0b0061 mContainerId=#1020002 mTag=null
+        mState=5 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=true mInLayout=true
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{f1e617f in HostCallbacks{3e567995}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@3e567995
+        mView=android.widget.FrameLayout{1f96ff1d V.E...C. ........ 0,0-480,816 #7f0b0061 app:id/map}
+        mInnerView=android.widget.FrameLayout{1f96ff1d V.E...C. ........ 0,0-480,816 #7f0b0061 app:id/map}
+        Child FragmentManager{21b5aaa in SupportMapFragment{18de654c}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@3e567995
+            mContainer=android.support.v4.app.Fragment$2@4c1969b
+            mParent=SupportMapFragment{18de654c #0 id=0x7f0b0061}
+            mCurState=5 mStateSaved=false mDestroyed=false
+    Added Fragments:
+      #0: SupportMapFragment{18de654c #0 id=0x7f0b0061}
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@3e567995
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@3e567995
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{38c390ad V.E..... ... 0,0-480,854}
+        android.widget.LinearLayout{28947f73 V.E..... ... 0,0-480,854}
+          android.view.ViewStub{c017e30 G.E..... ... 0,0-0,0 #102036e}
+          android.widget.FrameLayout{1a358aa9 V.E..... ... 0,38-480,854 #1020002 android:id/content}
+            android.widget.FrameLayout{1f96ff1d V.E...C. ... 0,0-480,816 #7f0b0061 app:id/map}
+              android.widget.FrameLayout{1acc9150 V.E..... ... 0,0-480,816}
+                com.google.maps.api.android.lib6.gmm6.api.x{33fb439e VFED..C. ... 0,0-480,816}
+                android.widget.RelativeLayout{3481a3db V.E..... ... 0,0-480,816}
+                  android.widget.ImageView{3181ae78 V.ED.... ... 8,775-98,808}
+                  android.widget.TextView{3cf0d5b6 G.ED.... ... 0,0-0,0}
+                android.widget.RelativeLayout{35599189 V.E..... ... 0,0-480,816}
+                  android.widget.ImageView{1a70e58e G.ED.... ... 0,0-0,0 #2}
+                  android.widget.RelativeLayout{31664ffd V.E..... ... 465,15-465,801 #3}
+                    com.google.maps.api.android.lib6.impl.ca{3f19cc9a G.ED..C. ... 0,0-0,0}
+                  android.widget.LinearLayout{f9d54f2 G.E..... ... 0,0-0,0 #1}
+                    android.widget.ImageView{3b0b1743 V.ED..C. ... 0,0-0,0}
+                    android.widget.ImageView{1ffcf9ec V.ED..C. ... 0,0-0,0}
+                  android.widget.LinearLayout{1c5f3a24 V.E..... ... 344,730-465,793 #4}
+                    android.widget.ImageView{12ac9742 V.ED..C. ... 0,0-61,63}
+                    android.widget.ImageView{341ae98d V.ED..C. ... 61,0-121,63}
+                  com.google.maps.api.android.lib6.impl.ak{24a88431 I.ED..C. ... 15,15-75,75 #5}
+        android.view.View{b703a1a V.ED.... ... 0,0-480,38 #102002f android:id/statusBarBackground}
